@@ -1,0 +1,32 @@
+G:\Upwork\document editor\WinHtmlEditor-master\WinHtmlEditor-master\WinHtmlEditor\bin\Debug\WinHtmlEditor.dll
+G:\Upwork\document editor\WinHtmlEditor-master\WinHtmlEditor-master\WinHtmlEditor\bin\Debug\WinHtmlEditor.pdb
+G:\Upwork\document editor\WinHtmlEditor-master\WinHtmlEditor-master\WinHtmlEditor\bin\Debug\Microsoft.mshtml.dll
+G:\Upwork\document editor\WinHtmlEditor-master\WinHtmlEditor-master\WinHtmlEditor\obj\Debug\WinHtmlEditor.csprojResolveAssemblyReference.cache
+G:\Upwork\document editor\WinHtmlEditor-master\WinHtmlEditor-master\WinHtmlEditor\obj\Debug\WinHtmlEditor.ContextMenuForm.resources
+G:\Upwork\document editor\WinHtmlEditor-master\WinHtmlEditor-master\WinHtmlEditor\obj\Debug\WinHtmlEditor.OfficeColorPicker.resources
+G:\Upwork\document editor\WinHtmlEditor-master\WinHtmlEditor-master\WinHtmlEditor\obj\Debug\WinHtmlEditor.ToolStripColorPicker.resources
+G:\Upwork\document editor\WinHtmlEditor-master\WinHtmlEditor-master\WinHtmlEditor\obj\Debug\WinHtmlEditor.EditHtmlForm.resources
+G:\Upwork\document editor\WinHtmlEditor-master\WinHtmlEditor-master\WinHtmlEditor\obj\Debug\WinHtmlEditor.FindReplaceForm.resources
+G:\Upwork\document editor\WinHtmlEditor-master\WinHtmlEditor-master\WinHtmlEditor\obj\Debug\WinHtmlEditor.HtmlEditor.resources
+G:\Upwork\document editor\WinHtmlEditor-master\WinHtmlEditor-master\WinHtmlEditor\obj\Debug\WinHtmlEditor.Properties.Resources.resources
+G:\Upwork\document editor\WinHtmlEditor-master\WinHtmlEditor-master\WinHtmlEditor\obj\Debug\WinHtmlEditor.TablePropertyForm.resources
+G:\Upwork\document editor\WinHtmlEditor-master\WinHtmlEditor-master\WinHtmlEditor\obj\Debug\WinHtmlEditor.csproj.GenerateResource.Cache
+G:\Upwork\document editor\WinHtmlEditor-master\WinHtmlEditor-master\WinHtmlEditor\obj\Debug\WinHtmlEditor.csproj.CoreCompileInputs.cache
+G:\Upwork\document editor\WinHtmlEditor-master\WinHtmlEditor-master\WinHtmlEditor\obj\Debug\WinHtmlEditor.dll
+G:\Upwork\document editor\WinHtmlEditor-master\WinHtmlEditor-master\WinHtmlEditor\obj\Debug\WinHtmlEditor.pdb
+G:\Freelancer\20190507_dental_doc_studio_england_c#\WinHtmlEditor-master\WinHtmlEditor\bin\Debug\WinHtmlEditor.dll
+G:\Freelancer\20190507_dental_doc_studio_england_c#\WinHtmlEditor-master\WinHtmlEditor\bin\Debug\WinHtmlEditor.pdb
+G:\Freelancer\20190507_dental_doc_studio_england_c#\WinHtmlEditor-master\WinHtmlEditor\bin\Debug\Microsoft.mshtml.dll
+G:\Freelancer\20190507_dental_doc_studio_england_c#\WinHtmlEditor-master\WinHtmlEditor\obj\Debug\WinHtmlEditor.csprojResolveAssemblyReference.cache
+G:\Freelancer\20190507_dental_doc_studio_england_c#\WinHtmlEditor-master\WinHtmlEditor\obj\Debug\WinHtmlEditor.ContextMenuForm.resources
+G:\Freelancer\20190507_dental_doc_studio_england_c#\WinHtmlEditor-master\WinHtmlEditor\obj\Debug\WinHtmlEditor.OfficeColorPicker.resources
+G:\Freelancer\20190507_dental_doc_studio_england_c#\WinHtmlEditor-master\WinHtmlEditor\obj\Debug\WinHtmlEditor.ToolStripColorPicker.resources
+G:\Freelancer\20190507_dental_doc_studio_england_c#\WinHtmlEditor-master\WinHtmlEditor\obj\Debug\WinHtmlEditor.EditHtmlForm.resources
+G:\Freelancer\20190507_dental_doc_studio_england_c#\WinHtmlEditor-master\WinHtmlEditor\obj\Debug\WinHtmlEditor.FindReplaceForm.resources
+G:\Freelancer\20190507_dental_doc_studio_england_c#\WinHtmlEditor-master\WinHtmlEditor\obj\Debug\WinHtmlEditor.HtmlEditor.resources
+G:\Freelancer\20190507_dental_doc_studio_england_c#\WinHtmlEditor-master\WinHtmlEditor\obj\Debug\WinHtmlEditor.Properties.Resources.resources
+G:\Freelancer\20190507_dental_doc_studio_england_c#\WinHtmlEditor-master\WinHtmlEditor\obj\Debug\WinHtmlEditor.TablePropertyForm.resources
+G:\Freelancer\20190507_dental_doc_studio_england_c#\WinHtmlEditor-master\WinHtmlEditor\obj\Debug\WinHtmlEditor.csproj.GenerateResource.Cache
+G:\Freelancer\20190507_dental_doc_studio_england_c#\WinHtmlEditor-master\WinHtmlEditor\obj\Debug\WinHtmlEditor.csproj.CoreCompileInputs.cache
+G:\Freelancer\20190507_dental_doc_studio_england_c#\WinHtmlEditor-master\WinHtmlEditor\obj\Debug\WinHtmlEditor.dll
+G:\Freelancer\20190507_dental_doc_studio_england_c#\WinHtmlEditor-master\WinHtmlEditor\obj\Debug\WinHtmlEditor.pdb
